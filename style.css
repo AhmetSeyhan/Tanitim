@@ -1,0 +1,9 @@
+body {
+    background-image: url(wallpap.jpg);
+    background-size: cover;
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif ;
+    font-style: italic;
+    
+}
